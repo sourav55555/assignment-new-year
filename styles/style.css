@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+/* header css */
+header{
+    height: 100vh;
+    width: 100%;
+    background-image: url("../images/banner/banner3.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+header .banner{
+    max-width: 1300px;
+    text-align: right;
+}
+
+.banner h2{
+    font-size: 58px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 30px;
+}
+.banner p{
+    font-size: 16px;
+    color: white;
+    width: 40%;
+    margin-left: 60%;
+    text-align: right;
+    margin-bottom: 35px;
+}
+
+.banner button{
+    padding: 20px 23px;
+    font-size: 20px;
+    background-color: white;
+    color: rgb(23, 100, 123);
+    font-weight: 600;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
