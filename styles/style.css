@@ -97,3 +97,48 @@ header .banner{
     margin-left: 5px;
 
 }
+
+
+/* plan css */
+.plans{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+.plan-area{
+    width: 1100px;
+    text-align: center;
+}
+
+.plan-area h3{
+    font-size: 44px;
+    font-weight: 700;
+    color: black;
+    margin-bottom: 53px;
+}
+
+.plan-details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.plan{
+
+}
+
+.plan img{
+    margin-bottom: 20px;
+}
+.plan h4{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.plan p{
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(111, 111, 111);;
+}
